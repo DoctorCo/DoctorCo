@@ -1,2 +1,2 @@
 # hmm
-https://github-readme-stats.vercel.app/api/top-langs?username=DoctorCo&locale=en
+</p><img src='https://github-readme-stats.vercel.app/api/top-langs?username=DoctorCo&locale=en'></img></p>
