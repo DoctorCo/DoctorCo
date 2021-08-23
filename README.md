@@ -1,5 +1,5 @@
-# hi i am Doctor Co
-<h1>I am a web and bot developer</h1>
+# Hi i am Doctor Co
+<p>I am a web and bot developer</p>
 
 
 ## Github Stats
