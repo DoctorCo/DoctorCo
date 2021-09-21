@@ -3,7 +3,7 @@
 
 ## Discord
 
-[!](https://discord.c99.nl/widget/theme-4/725278824975040512.png)
+[[!](https://discord.c99.nl/widget/theme-4/725278824975040512.png)]
 
 ## Github Stats
 
