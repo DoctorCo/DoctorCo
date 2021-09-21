@@ -1,6 +1,10 @@
 # Hi i am Doctor Co
 <p>I am a web and bot developer</p>
 
+## Discord
+
+[!](https://discord.c99.nl/widget/theme-4/725278824975040512.png)
+
 ## Github Stats
 
 Language stats:
