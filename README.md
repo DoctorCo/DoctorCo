@@ -18,13 +18,11 @@ I make discord bots in **[javascript](https://discord.js.org/#/)** and **[python
 - 👨‍💻 Javascript, Typescript (includes node and react)
 ---
 
-
-## Tools and languages
 <details>
   <summary>Github Stats</summary>
   <br>
   # Language stats:
-  <p align="left"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical&locale=en'></img></p>
+  <p align="left"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorCo&show_icons=true&theme=radical&locale=en'></img></p>
   # Overall stats:
   <p align="left"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical'></img></p>
   <p align='left'><img src='https://gpvc.arturio.dev/DoctorCo'></p>
