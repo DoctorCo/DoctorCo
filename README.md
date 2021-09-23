@@ -27,5 +27,5 @@ I make discord bots in **[javascript](https://discord.js.org/#/)** and **[python
   <p align="left"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical&locale=en'></img></p>
   # Overall stats:
   <p align="left"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical'></img></p>
-  <p>![Profile views](https://gpvc.arturio.dev/DoctorCo)</p>
+  <p align='left'><img src='https://gpvc.arturio.dev/DoctorCo'></p>
 </details>
