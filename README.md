@@ -21,9 +21,9 @@ I make discord bots in **[javascript](https://discord.js.org/#/)** and **[python
 <details>
   <summary>Github Stats</summary>
   <br>
-  # Language stats:
+  <h1> Language stats: </h1>
   <p align="left"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorCo&show_icons=true&theme=radical&locale=en'></img></p>
-  # Overall stats:
+  <h2> Overall stats: </h2>
   <p align="left"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical'></img></p>
   <p align='left'><img src='https://gpvc.arturio.dev/DoctorCo'></p>
 </details>
