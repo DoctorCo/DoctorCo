@@ -4,9 +4,9 @@ I make discord bots in **[javascript](https://discord.js.org/#/)** and **[python
 
 ---
 ## More Stuff
-🐍 I like using python, and solving ctfs sometimes
-😶 Some other interests > making drawings in photshop and playing badminton ~~and sometimes making fun of people who like php~~.
-😁 14 y.o
+- 🐍 I like using python, and solving ctfs sometimes
+- 😶 Some other interests > making drawings in photshop and playing badminton ~~and sometimes making fun of people who like php~~.
+- 😁 14 y.o
 
 ## Contact me
 
