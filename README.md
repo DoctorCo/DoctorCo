@@ -1,6 +1,4 @@
 # Hi i am Doctor Co
-My name is Doctor Co, you can call me cody too! Programming is my favourite pastime, though i would love to pursue a career in it. I mostly develop **websites** but somtimes 
-I make discord bots in **[javascript](https://discord.js.org/#/)** and **[python](https://github.com/Pycord-Development/pycord)**
 
 ---
 ## More Stuff
