@@ -7,7 +7,7 @@
 
 ## Contact me
 
-[![](https://discord.c99.nl/widget/theme-4/725278824975040512.png)](https://discord.gg/U62zUZTR6G)
+<img src="header.svg">
 
 ## Languages i know
 - 🐍 Python (ofc)
