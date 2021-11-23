@@ -22,6 +22,6 @@
 
 
 
-## Readom stuff
+## Random stuff
 
 <img src="header.svg">
