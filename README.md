@@ -1,13 +1,8 @@
 # Hi i am Doctor Co
 
 ---
-## More Stuff
-- 🐍 I like using python, and solving ctfs sometimes
-- 😁 14 y.o
 
-## Contact me
 
-<img src="header.svg">
 
 ## Languages i know
 - 🐍 Python (ofc)
@@ -22,3 +17,11 @@
   <h2> Overall stats: </h2>
   <p align="left"><img src='https://github-readme-stats.vercel.app/api?username=DoctorCo&show_icons=true&theme=radical'></img></p>
   <p align='left'><img src='https://gpvc.arturio.dev/DoctorCo'></p>
+
+
+
+
+
+## Readom stuff
+
+<img src="header.svg">
