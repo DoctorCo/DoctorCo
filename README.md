@@ -3,7 +3,7 @@
 ---
 
 ## Languages i know
-- 🐍 Python (ofc)
+- 🐍 Python 
 - 💻 Html, css 
 - 👨‍💻 Javascript, Typescript (includes node and react)
 ---
