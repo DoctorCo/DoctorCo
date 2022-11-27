@@ -3,9 +3,9 @@
 ---
 
 ## Languages I know
-- 🐍 Python 
-- 💻 Html, css 
-- 👨‍💻 Javascript, Typescript (includes node and react)
+- 🐍 Python          # 🕸 I barely use it though...
+- 💻 Html, css       /* 😥 I still prefer tailwindcss + next.js */
+- 👨‍💻 Javascript, Typescript (includes node and react)  // 🥳 My best go //
 ---
 <h1 align="center"> My Github stats: </h1>
 <br/>
